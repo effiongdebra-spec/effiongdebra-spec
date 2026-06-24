@@ -1,16 +1,20 @@
-## Hi there 👋
+<h1>Hello, Im Deborah! 😊
+  
+  <br/>Bioinformatics Student, Women's Reproductive Health Researcher
 
-<!--
-**effiongdebra-spec/effiongdebra-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>🧬 Bioinformatics Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>Single-Cell RNA Sequencing Analysis of Human PBMCs Using 10x Genomics Data
+- <b>Transcriptomic Landscape of Menopause: Differential Expression and Pathway Analysis
+- <b>SARS-CoV-2 NGS Quality Control Pipeline
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>👾 Data Science/ Machine Learning Projects:</h2>
+
+- <b>Women’s Health Equity Analytics: Predicting Menopause Patterns Using SWAN Data
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: www.linkedin.com/in/debra-effiong-
+
