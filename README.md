@@ -4,7 +4,7 @@
 
 <h2>🧬 Bioinformatics Projects:</h2>
 
-- <b>Single-Cell RNA Sequencing Analysis of Human PBMCs Using 10x Genomics Data
+- <b>[Single-Cell RNA Sequencing Analysis of Human PBMCs Using 10x Genomics Data](https://github.com/effiongdebra-spec/pbmc-scRNAseq-analysis)
 - <b>Transcriptomic Landscape of Menopause: Differential Expression and Pathway Analysis
 - <b>SARS-CoV-2 NGS Quality Control Pipeline
 
