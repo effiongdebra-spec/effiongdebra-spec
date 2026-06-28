@@ -10,7 +10,7 @@
 
 <h2>👾 Data Science/ Machine Learning Projects:</h2>
 
-- <b>Women’s Health Equity Analytics: Predicting Menopause Patterns Using SWAN Data
+- <b>[Women’s Health Equity Analytics: Predicting Menopause Patterns Using SWAN Data](https://github.com/effiongdebra-spec/menopause-ml-analysis)
 
 <h2> 🤳 Connect with me:</h2>
 
