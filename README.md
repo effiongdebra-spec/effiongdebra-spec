@@ -12,6 +12,10 @@
 
 - <b>[Women’s Health Equity Analytics: Predicting Menopause Patterns Using SWAN Data](https://github.com/effiongdebra-spec/menopause-ml-analysis)
 
+<h2>💊 Pharmaceutical Science Projects:</h2>
+
+- <b>Clindamycin Phosphate Dosage Form Analysis (Senior Thesis)
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
