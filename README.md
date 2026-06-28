@@ -6,7 +6,7 @@
 
 - <b>[Single-Cell RNA Sequencing Analysis of Human PBMCs Using 10x Genomics Data](https://github.com/effiongdebra-spec/pbmc-scRNAseq-analysis)
 - <b>Transcriptomic Landscape of Menopause: Differential Expression and Pathway Analysis
-- <b>SARS-CoV-2 NGS Quality Control Pipeline
+- <b>[SARS-CoV-2 NGS Quality Control Pipeline](https://github.com/effiongdebra-spec/sarscov2-ngs-qc)
 
 <h2>👾 Data Science/ Machine Learning Projects:</h2>
 
